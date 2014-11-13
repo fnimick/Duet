@@ -8,8 +8,8 @@
 }
 
 .contact-section {
-    padding-top: 300px;
-    padding-bottom: 200px;
+    padding-top: 150px;
+    padding-bottom: 150px;
 }
 
 .duet-lead {
@@ -18,4 +18,10 @@
 
 input, select, textarea{
   color: #000;
+}
+@media(min-width:767px) {
+    .contact-section {
+        padding-top: 300px;
+        padding-bottom: 200px;
+    }
 }
