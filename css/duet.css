@@ -1,0 +1,21 @@
+.lato-thin {
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.contact-section {
+    padding-top: 300px;
+    padding-bottom: 200px;
+}
+
+.duet-lead {
+    font-size: 24px;
+}
+
+input, select, textarea{
+  color: #000;
+}
